@@ -1,0 +1,14 @@
+{
+  "name": "jsoauth",
+  "repo": "tipm/jsoauth",
+  "description": "JS oAuth 1.0",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "./dist/CommonJS/lib/jsOAuth.js",
+  "scripts": [
+    "./dist/CommonJS/lib/jsOAuth.js"
+  ]
+}
