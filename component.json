@@ -7,8 +7,8 @@
   "dependencies": {},
   "development": {},
   "license": "MIT",
-  "main": "./dist/CommonJS/lib/jsOAuth.js",
+  "main": "dist/CommonJS/lib/jsOAuth.js",
   "scripts": [
-    "./dist/CommonJS/lib/jsOAuth.js"
+    "dist/CommonJS/lib/jsOAuth.js"
   ]
 }
